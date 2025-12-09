@@ -1,3 +1,3 @@
 # Hey 👋
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+[Sponsor Glenn](https://github.com/sponsors/g13nn)
