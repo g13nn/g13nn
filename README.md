@@ -4,8 +4,8 @@
 ### Tech
 
 ![Icon 1](https://placehold.co/34x34 "Icon 1")
-
-
+![Icon 2](https://placehold.co/34x34 "Icon 2")
+![Icon 3](https://placehold.co/34x34 "Icon 3")
 
 ### Contact
 [Contact Glenn &rarr;](mailto:g13nn@outlook.com)
