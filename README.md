@@ -27,7 +27,11 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+### 2026 Projects
 
+#### January 2026
+
+- Project #1 (???)
 
 
 
