@@ -1,3 +1,3 @@
 # Hey 👋
 
-[Sponsor Glenn](https://github.com/sponsors/g13nn)
+[Sponsor Glenn &rarr;](https://github.com/sponsors/g13nn)
