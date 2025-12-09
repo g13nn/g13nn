@@ -3,7 +3,7 @@
 
 ### Tech
 
-![The San Juan Mountains are beautiful](https://placehold.co/28x28 "Icon 1")
+![Icon 1](https://placehold.co/28x28 "Icon 1")
 
 
 
