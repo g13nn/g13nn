@@ -3,7 +3,7 @@
 
 ### Tech
 
-![Icon 1](https://placehold.co/28x28 "Icon 1")
+![Icon 1](https://placehold.co/34x34 "Icon 1")
 
 
 
