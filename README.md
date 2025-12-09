@@ -6,3 +6,7 @@
 
 - [Email Framework &rarr;](https://github.com/g13nn/Email-Framework)
 - [SFMC Menu &rarr;](https://sfmc-menu.netlify.app/)
+
+### Contact
+
+[Contact Glenn &rarr;](mailto:g13nn@outlook.com)
