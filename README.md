@@ -5,3 +5,4 @@
 ### Projects
 
 - [Email Framework &rarr;](https://github.com/g13nn/Email-Framework)
+- [SFMC Menu &rarr;](https://sfmc-menu.netlify.app/)
