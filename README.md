@@ -1,5 +1,3 @@
 # Hey 👋
 
-<a href="https://github.com/sponsors/g13nn">
-  Sponsor
-</a>
+Sponsor [@g13nn]([https://duckduckgo.com](https://github.com/sponsors/g13nn)).
