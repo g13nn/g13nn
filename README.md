@@ -1,3 +1,3 @@
 # Hey 👋
 
-Sponsor [@g13nn]([https://duckduckgo.com](https://github.com/sponsors/g13nn])
+Sponsor [@g13nn]([https://github.com/sponsors/g13nn)])
