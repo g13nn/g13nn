@@ -2,7 +2,7 @@
 [Sponsor Glenn &rarr;](https://github.com/sponsors/g13nn)
 
 ### Tech
-[![Icon 1](https://placehold.co/34x34 "Icon 1")](https://github.com/g13nn)
+[![Icon 1](https://i.postimg.cc/kMtcWSYg/9496578-3654699443.png "Icon 1")](https://github.com/g13nn)
 [![Icon 2](https://placehold.co/34x34 "Icon 2")](https://github.com/g13nn)
 [![Icon 3](https://placehold.co/34x34 "Icon 3")](https://github.com/g13nn)
 
