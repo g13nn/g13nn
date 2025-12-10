@@ -1,6 +1,8 @@
+---
 # Hello World 👋
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/g13nn)
 
+---
 ### Spoken Languages
 ---
 
@@ -9,6 +11,7 @@
 - 🇪🇸 Spanish  
 - 🇩🇪 German
 
+---
 ### Coding Languages
 ---
 
@@ -26,6 +29,7 @@
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-4A90E2?style=for-the-badge&logo=api&logoColor=white)
 
+---
 ### Frameworks
 ---
 
@@ -41,6 +45,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SLDS](https://img.shields.io/badge/Salesforce_Lightning_Design_System-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
+---
 ### Game Engines
 ---
 
