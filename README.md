@@ -2,6 +2,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/g13nn)
 
 ### Spoken Languages
+---
 
 - 🇬🇧 English  
 - 🇫🇷 French  
@@ -9,6 +10,7 @@
 - 🇩🇪 German
 
 ### Coding Languages
+---
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +27,8 @@
 ![APIs](https://img.shields.io/badge/API-4A90E2?style=for-the-badge&logo=api&logoColor=white)
 
 ### Frameworks
+---
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -38,6 +42,8 @@
 ![SLDS](https://img.shields.io/badge/Salesforce_Lightning_Design_System-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Game Engines
+---
+
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
