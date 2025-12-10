@@ -2,15 +2,6 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/g13nn)
 
 ---
-### Spoken Languages
----
-
-- 🇬🇧 English  
-- 🇫🇷 French  
-- 🇪🇸 Spanish  
-- 🇩🇪 German
-
----
 ### Coding Languages
 ---
 
