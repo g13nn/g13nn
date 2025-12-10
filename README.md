@@ -28,7 +28,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-4A90E2?style=for-the-badge&logo=api&logoColor=white)
-![Hexadecimal](https://img.shields.io/badge/Hexadecimal-#0F0F0F?style=for-the-badge&logoColor=white)
+![Hexadecimal](https://img.shields.io/badge/Hexadecimal-#8A2BE2?style=for-the-badge&logoColor=white)
 
 ---
 ### Frameworks
