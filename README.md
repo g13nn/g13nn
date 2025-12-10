@@ -53,17 +53,10 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
+---
 ### Contact
+---
+
 [Contact Glenn &rarr;](mailto:g13nn@outlook.com)
 
 
